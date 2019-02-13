@@ -1,2 +1,0 @@
-# licenses
-digital licenses
