@@ -1,12 +1,17 @@
 # Creative Commons Legal Code
+# 知识共享法律文书
 
 ## Attribution 4.0 International
+## 国际 4.0 版本
 
  Official translations of this license are available [in other languages](#languages).
+<br><br>本许可证的官方翻译详见[其他语言](#languages)。
 
 Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+<br><br>知识共享团体（“知识共享”）不是一家法律事务所，也不提供法律服务和法律建议。分发知识共享公共许可证并不建立“律师-客户”或其他关系。知识共享以现状作为基本原则产生许可证和相关信息。对于许可证，或以许可证条款作为许可的任何素材，或任何相关信息，知识共享不提供任何担保。知识共享不承担因使用许可证而导致的最大程度损失的所有责任。
 
 **Using Creative Commons Public Licenses**
+<br><br>**使用知识共享公共许可证**
 
 Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
 
