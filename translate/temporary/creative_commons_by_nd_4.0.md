@@ -1,16 +1,23 @@
 # Creative Commons Legal Code
+# 知识共享法律文书
 
 ## Attribution-NoDerivatives 4.0 International
+## 署名-非衍生 4.0 国际版
 
  Official translations of this license are available [in other languages](#languages).
+<br><br>本许可证的官方翻译详见[其他语言](#languages)。
 
 Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+<br><br>知识共享团体（“知识共享”）不是一家法律事务所，也不提供法律服务和法律建议。分发知识共享公共许可证并不建立“律师-客户”或其他关系。知识共享以现状作为基本原则产生许可证和相关信息。对于许可证，或以许可证条款和条件作为许可的任何素材，或任何相关信息，知识共享不提供任何担保。知识共享不承担因使用许可证而导致的最大程度损失的所有责任。
 
 **Using Creative Commons Public Licenses**
+<br><br>**使用知识共享公共许可证**
 
 Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
+<br><br>知识共享公共许可证提供一套标准条款和条件，创作者和其他权利持有人可用于分享作者原创作品和受以下公共许可的版权和某些其他权利规定的其他素材。以下注意事项仅限信息目的, 并非详尽无遗，并且不构成我们许可证的一部分。
 
 **Considerations for licensors:** Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights. Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license. This includes other CC-licensed material, or material used under an exception or limitation to copyright. [More considerations for licensors.](//wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors)
+<br><br>**许可方注意事项：**我们的公共许可证旨在供那些被授权给予公众以其他方式使用被版权和某些其他权利限制的准许。我们的许可证是不可撤销的。许可方在申请许可证之前应阅读并理解其选择的许可条款和条件。许可方还应在应用我们的许可证之前保护所有必要的权利这样公众可以按预期重复使用素材。许可方应清楚地标记任何不受许可证约束的素材。这包括其他 CC-许可 的素材, 或在版权例外或限制下使用的素材。[更多许可方注意事项](//wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors)
 
 **Considerations for the public:** By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor’s permission is not necessary for any reason–for example, because of any applicable exception or limitation to copyright–then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. [More considerations for the public.](//wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees)
 
