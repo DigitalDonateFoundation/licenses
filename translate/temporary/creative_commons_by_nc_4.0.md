@@ -20,12 +20,16 @@ Creative Commons public licenses provide a standard set of terms and conditions 
 <br><br>**许可方注意事项：**我们的公共许可证旨在供那些被授权给予公众以其他方式使用被版权和某些其他权利限制的准许。我们的许可证是不可撤销的。许可方在申请许可证之前应阅读并理解其选择的许可条款和条件。许可方还应在应用我们的许可证之前保护所有必要的权利这样公众可以按预期重复使用素材。许可方应清楚地标记任何不受许可证约束的素材。这包括其他 CC-许可 的素材, 或在版权例外或限制下使用的素材。[更多许可方注意事项](//wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors)
 
 **Considerations for the public:** By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor’s permission is not necessary for any reason–for example, because of any applicable exception or limitation to copyright–then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. [More considerations for the public.](//wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees)
+<br><br>**公众注意事项：**通过使用一个我们的公共许可证，许可方授予公众允许在特定条款和条件下使用被许可素材。如果许可方的许可因任何原因是不必要的，例如由于任何适用的例外或版权限制，则该使用不受许可证的管制。我们的许可证只允许许可方有权授予版权和其他权利上的许可。使用被许可的素材可能仍因其他原因受到限制，包括因其他人对素材拥有版权或其他权利。许可方可以提出特殊要求，例如要求所有更改都被标记或描述。尽管我们的许可证不要求，但鼓励您在合理的情况下尊重这些要求。[更多公众注意事项](//wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees)
 
 ### Creative Commons Attribution-NonCommercial 4.0 International Public License
+### 知识共享 署名-非盈利 4.0 国际版 公共许可证
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+<br><br>通过行使许可的权利（定义见下文），您接受并同意受本 知识共享 署名-非盈利 4.0 国际版 公共许可证（“公共许可”）的条款和条件的约束。在本公共许可可能被解释为合同的范围内，鉴于您接受这些条款和条件您被授予许可的权利，并且许可方授予您这些权利，基于许可方通过使被许可的素材在这些条款和条件下可用而获得收益。
 
 **Section 1 – Definitions.**
+<br><br>**章节 1 – 定义**
 
 1.  **Adapted Material** means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
 2.  **Adapter's License** means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
